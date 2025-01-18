@@ -1,3 +1,4 @@
 DB_Store.txt
 *.log
 logs/
+*.orig
